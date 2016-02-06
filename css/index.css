@@ -1,0 +1,16 @@
+
+#index {
+    background-color: #B4CDCD;
+    
+}
+
+.himage {
+  background-image: url('../images/beach.jpg');
+  background-position : center center;
+  background-size: cover;
+  height: 200px;
+}
+
+h1 {
+	font-family: 'Lobster', cursive, serif;
+}
